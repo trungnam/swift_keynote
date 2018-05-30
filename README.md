@@ -6,3 +6,6 @@ Open Product ▶️ Scheme ▶️ Edit Scheme …
 Select Run
 On Environment Variables, add OS_ACTIVITY_MODE with value disable
 https://i.stack.imgur.com/p7BlV.png
+
+#Format swift
+https://github.com/Jintin/Swimat
