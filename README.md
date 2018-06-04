@@ -11,3 +11,7 @@ https://i.stack.imgur.com/p7BlV.png
 https://github.com/Jintin/Swimat
 
 https://github.com/phillfarrugia/appstore-clone
+
+#RX swift
+throttle and debounce
+http://devsign.co/notes/throttle-and-debounce
